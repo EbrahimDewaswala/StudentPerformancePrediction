@@ -1,0 +1,2 @@
+# StudentPerformancePrediction
+This GitHub repository contains a machine learning project aimed at predicting the factors that influence student grades. It uses a dataset in CSV format that includes variables like nationality, grade level, number of hands raised, attendance, and study hours. The project applies various classification models to determine which features most significantly impact student performance, and presents the findings using visual tools such as graphs and confusion matrices.
