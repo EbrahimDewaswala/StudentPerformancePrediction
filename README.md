@@ -213,7 +213,7 @@ This project provides an introductory yet practical example of how machine learn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/StudentPerformancePrediction.git
+   git clone https://github.com/EbrahimDewaswala/StudentPerformancePrediction
    ```
 2. Install required dependencies:
 
